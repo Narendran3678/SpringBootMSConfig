@@ -1,5 +1,5 @@
 loan:
-  message: "Welcome to Loan Production Environment"
+  message: "Welcome to Loan Prod Environment"
   owner: "Naren"
   userInfo:
     mail: "{cipher}447b7dcdc77a8d13c4bd4cfb83c3a13b09620a28765d4dc3ca74cdb3e3a5bedf5e3be803b74880a9afb41daac2f35bef"
