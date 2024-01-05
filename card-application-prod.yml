@@ -1,5 +1,5 @@
 card:
-  message: "Welcome to Card Prod Environment"
+  message: "Welcome to Card Production Environment"
   owner: "Naren"
   userInfo:
     mail: "{cipher}3fd24bb01406ea826b0f022340119f31c413e3516e366f4ac82f9d70a7f1c354eb2f4f2af80bffa5e0324541edd9549d"
